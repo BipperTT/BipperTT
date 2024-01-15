@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 ##### ESP
-¡Hola! Soy Alexis, un estudiante de DAWe(ISCED5 & EQF5), estudios relacionados a la programación web. 
+¡Hola! Soy Alexis, un estudiante de DAWe(ISCED5 | EQF5), estudios relacionados a la programación web. 
 En esta cuenta subiré mis proyectos y mis avances, ¡ecantado!
 
 ##### ENG
-Hi, I'm Alexis, a student of DAWe(ISCED5 & EQF5), studies that are oriented to the developing of web apps. 
+Hi, I'm Alexis, a student of DAWe(ISCED5 | EQF5), studies that are oriented to the developing of web apps. 
 In this account I will upload my projects and my progresses, nice to meet you!
 
 
